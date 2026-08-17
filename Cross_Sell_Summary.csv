@@ -1,0 +1,128 @@
+customer_id,avg_complaints_opened,avg_transaction_count,avg_product_usage_score,salary_deposit_flag,marketing_consent,past_campaign_response,cross_sell_score,cross_sell_suitability,suitability_reasons,final_action,churn_level_lookup
+C00001,0.25,38.33333333,69.71666667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00004,0.08333333333,48.16666667,68.09166667,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Lower Churn Risk
+C00005,0.3333333333,37.75,56.04166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00006,0,36.25,78.05,TRUE,FALSE,FALSE,3,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00009,0.1666666667,61.91666667,88.14166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Lower Churn Risk
+C00011,0,45.75,75.21666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00013,0.6666666667,47.58333333,61.575,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00014,0.08333333333,25.5,53.98333333,FALSE,FALSE,FALSE,1,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00016,0.1666666667,35.66666667,54.86666667,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00019,0,20.83333333,36.89166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00020,0.08333333333,48.75,65.89166667,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00021,0.1666666667,35,41.14166667,FALSE,FALSE,FALSE,0,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00022,0.1666666667,52.91666667,69.84166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00023,0,39.66666667,62.41666667,TRUE,FALSE,FALSE,3,Not Eligible - No Consent,No marketing consent,Not Eligible,Lower Churn Risk
+C00025,0.3333333333,44.08333333,62,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00026,0.08333333333,53.5,61.775,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00027,0.08333333333,46.08333333,74.28333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00030,0.25,33.58333333,53.34166667,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00032,0.3333333333,18.5,33.33333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Retention First,High Churn Risk
+C00034,0.25,37,52.75,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00038,0,11,21.475,FALSE,FALSE,FALSE,1,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00039,0.08333333333,38.83333333,56.73333333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00040,0.08333333333,21.08333333,23.4,TRUE,FALSE,FALSE,2,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00041,0.08333333333,29.58333333,49.73333333,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00043,0.1666666667,47.41666667,71.73333333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00045,1.166666667,45.5,55.93333333,TRUE,FALSE,FALSE,2,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00047,0.8333333333,36.16666667,59.63333333,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00048,0.1666666667,51.66666667,46.15,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00049,0.1666666667,42.41666667,62.79166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00050,0.08333333333,53.66666667,44.8,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00051,0.3333333333,10.41666667,25.01666667,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00052,0.1666666667,43.58333333,52.89166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00054,0.1666666667,60.83333333,53.7,TRUE,FALSE,FALSE,2,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00055,0,27.91666667,59.56666667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00057,0,35.83333333,50.65833333,FALSE,TRUE,FALSE,1,Low Cross-Sell Suitability,Low complaint activity,Retention First,High Churn Risk
+C00058,1.166666667,47,74.75833333,TRUE,FALSE,FALSE,3,Not Eligible - No Consent,No marketing consent,Not Eligible,Lower Churn Risk
+C00059,0.4166666667,14.58333333,30.69166667,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Retention First,High Churn Risk
+C00061,0.08333333333,61.16666667,65.23333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00063,0,33.08333333,54.96666667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00066,1,48.16666667,77.875,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00068,0,35.91666667,57.75,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00069,0,52.91666667,70.53333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00070,0.1666666667,50.25,52,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00073,0.1666666667,54.16666667,84.83333333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00074,0.25,32.58333333,56.35,FALSE,TRUE,FALSE,1,Low Cross-Sell Suitability,High product usage,Low Cross-Sell Suitability,Not High-Value
+C00075,0,58.66666667,70.55833333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00076,0.1666666667,41.5,58.25833333,FALSE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High transaction activity, High product usage",Medium Cross-Sell Suitability,Not High-Value
+C00079,0,43.33333333,41.10833333,FALSE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity",Medium Cross-Sell Suitability,Not High-Value
+C00080,0.08333333333,42.91666667,68.875,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00081,0.3333333333,25.66666667,51.35,TRUE,FALSE,FALSE,1,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00083,0.08333333333,29.83333333,50.475,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00084,0,40.66666667,50.15833333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00087,0.1666666667,38.41666667,74.98333333,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00089,0.5,45.83333333,46.825,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00090,0.1666666667,30.08333333,57.775,FALSE,TRUE,FALSE,1,Low Cross-Sell Suitability,High product usage,Low Cross-Sell Suitability,Not High-Value
+C00091,0.08333333333,19.16666667,51.16666667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00092,0.1666666667,52.83333333,59.20833333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00093,0.1666666667,15.83333333,30.5,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00094,0.1666666667,10.08333333,30.05,FALSE,TRUE,FALSE,0,Low Cross-Sell Suitability,,Low Cross-Sell Suitability,Not High-Value
+C00095,0.08333333333,61.25,88.28333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00096,0,36.25,52.23333333,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00097,0.25,35.91666667,61.725,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00101,0,20.66666667,34.41666667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00102,0.08333333333,36.66666667,43.575,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00108,0.1666666667,28.08333333,48.85,FALSE,TRUE,FALSE,0,Low Cross-Sell Suitability,,Low Cross-Sell Suitability,Not High-Value
+C00109,0.1666666667,67.25,59.85,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00110,0,26.83333333,57.49166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00111,0.08333333333,26.75,42.09166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00112,0.08333333333,45.91666667,58.2,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00116,0.1666666667,37.5,69.96666667,TRUE,FALSE,FALSE,2,Not Eligible - No Consent,No marketing consent,Not Eligible,Lower Churn Risk
+C00117,0.9166666667,43.41666667,59.39166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Medium Churn Risk
+C00118,0.9166666667,46.66666667,72.48333333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00119,0,56.75,63.83333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00120,0.08333333333,66.25,77.85833333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00121,0.1666666667,16.91666667,22.33333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00122,0,55.58333333,66.38333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00123,0.08333333333,46.91666667,67.76666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00125,0,18.41666667,23.05,FALSE,TRUE,FALSE,1,Low Cross-Sell Suitability,Low complaint activity,Low Cross-Sell Suitability,Not High-Value
+C00126,0,61.91666667,79.18333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00127,0.3333333333,13.83333333,20.46666667,FALSE,TRUE,FALSE,0,Low Cross-Sell Suitability,,Low Cross-Sell Suitability,Not High-Value
+C00128,0.08333333333,47.25,71.83333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00129,0.3333333333,31.75,51.38333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Medium Churn Risk
+C00130,0.08333333333,51.83333333,57.39166667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Medium Churn Risk
+C00133,0.08333333333,42.25,61.30833333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00134,0,42.33333333,67.48333333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00136,0.25,17.41666667,26.08333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00137,0,61.58333333,85.2,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00138,0.1666666667,39.91666667,37.71666667,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00139,0.08333333333,43.83333333,65.275,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00141,0.08333333333,36.33333333,51.38333333,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00142,0.75,28.16666667,39.95,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00143,0.08333333333,26.66666667,39.15,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00145,0.1666666667,51.58333333,78.75,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00146,0.1666666667,38.91666667,58.35,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00148,0,43.5,72.55,FALSE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage",Medium Cross-Sell Suitability,Not High-Value
+C00149,0.08333333333,73.25,56.35,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00150,0,46.33333333,48.86666667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00151,0,56.58333333,60.21666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00153,0.08333333333,51.58333333,68.56666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Lower Churn Risk
+C00155,0.08333333333,48.75,53.88333333,FALSE,FALSE,FALSE,2,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00156,0.08333333333,38.25,43.84166667,FALSE,FALSE,FALSE,1,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00157,0,51.91666667,74.14166667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00160,0.1666666667,75.16666667,69.175,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00161,0,26.83333333,56.125,FALSE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, High product usage",Medium Cross-Sell Suitability,Not High-Value
+C00163,0,51,57.05,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00164,0.6666666667,21.25,54.03333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Retention First,High Churn Risk
+C00166,0.1666666667,42.16666667,61.8,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"High transaction activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Lower Churn Risk
+C00168,0.08333333333,63.33333333,75.3,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00169,0.1666666667,22.5,37.18333333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00170,0.08333333333,36.75,67.99166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00173,0.08333333333,36.66666667,56.28333333,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00174,0.1666666667,20.58333333,46.95833333,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00175,0,66.58333333,56.96666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00179,0.08333333333,42.41666667,56.76666667,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00180,0,40.5,69.79166667,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Lower Churn Risk
+C00181,0.08333333333,21.5,36.175,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00183,0.08333333333,25.66666667,49.19166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00184,0.08333333333,38.25,66.975,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High product usage, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00185,0.1666666667,29.08333333,27.475,TRUE,TRUE,FALSE,1,Low Cross-Sell Suitability,Salary deposit relationship,Low Cross-Sell Suitability,Not High-Value
+C00186,0,19.75,40.81666667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00188,0.08333333333,31.33333333,40.74166667,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00189,0.08333333333,56.5,67.625,TRUE,FALSE,FALSE,4,Not Eligible - No Consent,No marketing consent,Not Eligible,Not High-Value
+C00191,0.08333333333,50.25,69.45833333,TRUE,TRUE,FALSE,4,High Cross-Sell Suitability,"Low complaint activity, High transaction activity, High product usage, Salary deposit relationship",High Cross-Sell Suitability,Not High-Value
+C00192,0,51.25,55.21666667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00194,0.08333333333,32.25,27.35,TRUE,TRUE,FALSE,2,Medium Cross-Sell Suitability,"Low complaint activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value
+C00195,0,43.66666667,54.04166667,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Lower Churn Risk
+C00196,0,40.91666667,46.3,TRUE,TRUE,FALSE,3,Medium Cross-Sell Suitability,"Low complaint activity, High transaction activity, Salary deposit relationship",Medium Cross-Sell Suitability,Not High-Value

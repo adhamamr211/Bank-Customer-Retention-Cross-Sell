@@ -1,0 +1,1004 @@
+campaign_contact_id,customer_id,campaign_id,contact_date,campaign_objective,campaign_theme,offer_category,channel,message_variant,delivered_flag,opened_flag,clicked_flag,responded_flag,accepted_offer_flag,unsubscribe_flag,contact_cost,response_delay_days,marketing_consent_lookup,offer_response_check,customer_status_lookup,churn_date_lookup,campaign_timing_check,delivery_open_check,open_click_check,delivery_response_check,post_churn_campaign_flag,consent_issue_flag,offer_response_issue_flag,,
+CC000001,C00001,CMP004,2025-11-08,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000002,C00001,CMP001,2025-08-19,Retention,Service recovery,Rewards,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000003,C00001,CMP005,2025-08-22,Engagement,Rewards,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000004,C00001,CMP009,2025-05-13,Retention,Rewards,Personal loan,Email,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.06,4,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000005,C00001,CMP002,2025-01-18,Retention,Fee relief,Rewards,Call,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,6.76,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000006,C00001,CMP001,2025-03-15,Retention,Product offer,Personal loan,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000007,C00001,CMP005,2025-11-10,Cross-sell,Product offer,Rewards,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000008,C00002,CMP006,2025-10-21,Cross-sell,Product offer,Personal loan,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,11/16/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000009,C00002,CMP003,2025-03-20,Cross-sell,Product offer,Savings,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,7.9,,TRUE,Valid,Churned,11/16/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000010,C00002,CMP007,2025-08-19,Cross-sell,Product offer,Investment,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/16/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000011,C00002,CMP004,2025-08-01,Retention,Fee relief,None,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Churned,11/16/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000012,C00003,CMP012,2025-05-05,Cross-sell,Product offer,Savings,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/4/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000013,C00003,CMP008,2025-03-22,Cross-sell,Product offer,Rewards,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/4/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000014,C00004,CMP012,2025-11-21,Engagement,Fee relief,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,1,0
+CC000015,C00005,CMP003,2025-07-13,Retention,Financial wellness,Savings,SMS,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.22,4,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000016,C00006,CMP005,2025-08-13,Engagement,Rewards,Rewards,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.16,,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+CC000017,C00007,CMP010,2025-08-02,Cross-sell,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000018,C00007,CMP005,2025-05-23,Retention,Rewards,Rewards,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,11/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000019,C00008,CMP009,2025-09-09,Cross-sell,Product offer,Credit card,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000020,C00008,CMP012,2025-03-14,Cross-sell,Product offer,Credit card,Call,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,6.98,,TRUE,Valid,Churned,11/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000021,C00008,CMP009,2025-06-19,Cross-sell,Product offer,Savings,Call,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5.9,,TRUE,Valid,Churned,11/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000022,C00008,CMP002,2025-01-15,Engagement,Rewards,None,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,16.65,,TRUE,Valid,Churned,11/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000023,C00010,CMP005,2025-11-04,Engagement,Rewards,Rewards,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,8,TRUE,Valid,Churned,10/6/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,1,0
+CC000024,C00010,CMP009,2025-04-20,Cross-sell,Product offer,Personal loan,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000025,C00010,CMP008,2025-05-01,Cross-sell,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,7,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000026,C00011,CMP011,2025-08-03,Cross-sell,Product offer,Personal loan,SMS,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.22,6,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000027,C00011,CMP010,2025-06-03,Engagement,Rewards,None,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000028,C00011,CMP010,2025-08-25,Retention,Rewards,None,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000029,C00012,CMP001,2025-03-19,Engagement,Rewards,Rewards,SMS,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Churned,9/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000030,C00012,CMP010,2025-02-16,Retention,Financial wellness,Rewards,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000031,C00012,CMP007,2025-11-20,Cross-sell,Product offer,Savings,Push,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,0,TRUE,Valid,Churned,9/23/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,1,1
+CC000032,C00012,CMP008,2025-01-14,Engagement,Rewards,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,9/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000033,C00013,CMP006,2025-03-18,Engagement,Rewards,Rewards,Email,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000034,C00015,CMP002,2025-05-18,Cross-sell,Product offer,Credit card,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,17.27,,TRUE,Valid,Churned,10/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000035,C00015,CMP006,2025-05-07,Retention,Fee relief,Personal loan,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,10/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000036,C00015,CMP004,2025-03-17,Engagement,Financial wellness,None,Branch,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,20.76,2,TRUE,Valid,Churned,10/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000037,C00016,CMP004,2025-04-12,Engagement,Financial wellness,None,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000038,C00016,CMP007,2025-12-03,Retention,Product offer,Rewards,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000039,C00017,CMP010,2025-12-08,Engagement,Rewards,None,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000040,C00017,CMP004,2025-05-19,Retention,Rewards,None,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000041,C00017,CMP006,2025-05-21,Engagement,Financial wellness,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000042,C00019,CMP002,2025-02-12,Engagement,Rewards,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000043,C00019,CMP001,2025-09-03,Retention,Service recovery,Rewards,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000044,C00022,CMP012,2025-03-17,Engagement,Financial wellness,Rewards,Push,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,2,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000045,C00022,CMP012,2025-03-17,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000046,C00022,CMP005,2025-10-08,Retention,Fee relief,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,6,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000047,C00024,CMP012,2025-04-21,Retention,Financial wellness,Investment,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000048,C00024,CMP003,2025-12-22,Engagement,Rewards,Savings,SMS,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.15,,TRUE,Valid,Churned,10/10/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000049,C00025,CMP002,2025-04-02,Retention,Service recovery,None,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000050,C00025,CMP011,2025-12-16,Retention,Product offer,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000051,C00025,CMP010,2025-06-25,Retention,Fee relief,None,Email,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000052,C00025,CMP009,2025-09-23,Engagement,Rewards,Rewards,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,20.91,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000053,C00025,CMP009,2025-04-04,Engagement,Financial wellness,None,Push,C,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000054,C00026,CMP002,2025-06-13,Retention,Rewards,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000055,C00026,CMP003,2025-04-01,Retention,Product offer,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000056,C00026,CMP002,2025-06-13,Cross-sell,Product offer,Credit card,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000057,C00027,CMP005,2025-10-19,Cross-sell,Product offer,Investment,Push,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,1,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000058,C00028,CMP007,2025-12-16,Engagement,Rewards,Rewards,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/24/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000059,C00029,CMP001,2025-08-12,Retention,Financial wellness,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,FALSE,Valid,Churned,9/9/2025,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+CC000060,C00030,CMP005,2025-02-14,Cross-sell,Product offer,Credit card,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000061,C00030,CMP009,2025-06-09,Engagement,Rewards,Rewards,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000062,C00031,CMP004,2025-12-08,Cross-sell,Product offer,Personal loan,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,FALSE,Valid,Churned,10/7/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,TRUE,FALSE,0,0
+CC000063,C00032,CMP012,2025-03-11,Engagement,Financial wellness,Savings,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000064,C00032,CMP002,2025-07-01,Engagement,Fee relief,Rewards,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000065,C00032,CMP007,2025-08-05,Engagement,Rewards,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000066,C00032,CMP011,2025-10-07,Cross-sell,Product offer,Investment,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000067,C00032,CMP007,2025-01-02,Retention,Fee relief,Personal loan,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000068,C00033,CMP007,2025-08-16,Cross-sell,Product offer,Credit card,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/8/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000069,C00033,CMP005,2025-06-23,Engagement,Rewards,None,Call,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,7.41,1,TRUE,Valid,Churned,11/8/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000070,C00034,CMP011,2025-05-02,Cross-sell,Product offer,Savings,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000071,C00034,CMP008,2025-07-19,Retention,Fee relief,None,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000072,C00034,CMP007,2025-07-11,Retention,Service recovery,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000073,C00035,CMP007,2025-01-16,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/26/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000074,C00035,CMP005,2025-05-01,Retention,Service recovery,Rewards,Branch,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,15.85,,TRUE,Valid,Churned,12/26/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000075,C00035,CMP008,2025-05-03,Cross-sell,Product offer,Personal loan,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,15.4,,TRUE,Valid,Churned,12/26/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000076,C00035,CMP003,2025-05-18,Retention,Financial wellness,None,Branch,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,20.88,5,TRUE,Valid,Churned,12/26/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000077,C00036,CMP012,2025-06-01,Cross-sell,Product offer,Rewards,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/3/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000078,C00036,CMP010,2025-12-09,Engagement,Rewards,Savings,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,11/3/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000079,C00036,CMP002,2025-05-03,Retention,Financial wellness,Rewards,Push,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,2,TRUE,Valid,Churned,11/3/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000080,C00037,CMP007,2025-12-10,Engagement,Financial wellness,Savings,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,11/26/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000081,C00037,CMP004,2025-07-06,Retention,Fee relief,Rewards,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Churned,11/26/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000082,C00039,CMP011,2025-05-05,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000083,C00040,CMP012,2025-10-17,Cross-sell,Product offer,Investment,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+CC000084,C00041,CMP003,2025-01-09,Retention,Fee relief,None,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.17,2,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000085,C00041,CMP009,2025-10-23,Retention,Service recovery,Rewards,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000086,C00041,CMP006,2025-10-05,Engagement,Rewards,Savings,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000087,C00041,CMP011,2025-10-03,Engagement,Fee relief,None,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000088,C00042,CMP009,2025-07-09,Retention,Rewards,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000089,C00042,CMP005,2025-12-15,Cross-sell,Product offer,Credit card,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/19/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000090,C00042,CMP008,2025-06-01,Engagement,Financial wellness,Rewards,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000091,C00042,CMP006,2025-06-20,Cross-sell,Product offer,Investment,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000092,C00043,CMP003,2025-10-17,Engagement,Rewards,Rewards,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000093,C00043,CMP011,2025-06-07,Engagement,Rewards,Rewards,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.21,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000094,C00043,CMP005,2025-04-18,Cross-sell,Product offer,Credit card,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000095,C00043,CMP010,2025-04-24,Engagement,Financial wellness,None,SMS,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.22,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000096,C00044,CMP008,2025-11-20,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Churned,10/19/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000097,C00046,CMP010,2025-04-14,Cross-sell,Product offer,Savings,Email,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,10/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000098,C00046,CMP007,2025-12-04,Engagement,Rewards,None,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,10/10/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000099,C00046,CMP003,2025-01-24,Cross-sell,Product offer,Credit card,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,10/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000100,C00047,CMP002,2025-01-09,Cross-sell,Product offer,Personal loan,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000101,C00048,CMP008,2025-11-21,Cross-sell,Product offer,Investment,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000102,C00048,CMP005,2025-12-04,Cross-sell,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000103,C00048,CMP007,2025-02-17,Engagement,Fee relief,Rewards,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000104,C00048,CMP006,2025-12-12,Retention,Product offer,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000105,C00049,CMP004,2025-06-10,Retention,Product offer,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000106,C00049,CMP010,2025-08-09,Cross-sell,Product offer,Credit card,Push,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000107,C00049,CMP007,2025-04-02,Retention,Service recovery,None,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000108,C00049,CMP009,2025-12-19,Engagement,Financial wellness,Rewards,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000109,C00050,CMP009,2025-01-15,Cross-sell,Product offer,Credit card,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000110,C00050,CMP012,2025-03-10,Retention,Fee relief,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000111,C00050,CMP004,2025-01-21,Cross-sell,Product offer,Savings,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000112,C00051,CMP006,2025-07-11,Retention,Rewards,None,Push,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000113,C00051,CMP011,2025-10-08,Retention,Service recovery,None,Email,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000114,C00051,CMP007,2025-07-17,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000115,C00051,CMP009,2025-12-10,Retention,Fee relief,Rewards,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000116,C00052,CMP007,2025-01-18,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000117,C00052,CMP007,2025-11-11,Cross-sell,Product offer,Savings,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000118,C00052,CMP004,2025-08-17,Retention,Fee relief,Personal loan,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000119,C00053,CMP003,2025-09-17,Cross-sell,Product offer,Credit card,Push,B,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,6,TRUE,Valid,Churned,9/12/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,1,1
+CC000120,C00053,CMP004,2025-03-07,Cross-sell,Product offer,Credit card,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000121,C00053,CMP004,2025-06-01,Retention,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000122,C00053,CMP007,2025-04-25,Retention,Fee relief,Savings,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000123,C00053,CMP007,2025-06-03,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,4,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000124,C00055,CMP001,2025-12-14,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000125,C00056,CMP002,2025-10-12,Cross-sell,Product offer,Credit card,Email,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000126,C00056,CMP005,2025-09-17,Retention,Service recovery,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000127,C00056,CMP003,2025-12-20,Retention,Fee relief,Rewards,Email,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/18/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000128,C00056,CMP001,2025-03-04,Cross-sell,Product offer,Investment,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000129,C00056,CMP011,2025-12-12,Cross-sell,Product offer,Personal loan,SMS,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Churned,12/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000130,C00057,CMP004,2025-02-16,Cross-sell,Product offer,Savings,Call,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8.04,4,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000131,C00057,CMP003,2025-11-16,Engagement,Rewards,None,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000132,C00060,CMP006,2025-11-18,Engagement,Rewards,Savings,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000133,C00060,CMP010,2025-03-21,Engagement,Financial wellness,None,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000134,C00060,CMP010,2025-07-07,Retention,Fee relief,Savings,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000135,C00060,CMP010,2025-04-19,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000136,C00060,CMP002,2025-03-20,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000137,C00061,CMP010,2025-01-03,Cross-sell,Product offer,Savings,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000138,C00061,CMP002,2025-02-07,Retention,Service recovery,Rewards,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,19.28,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000139,C00061,CMP005,2025-09-13,Engagement,Rewards,Rewards,Branch,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,18.94,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000140,C00061,CMP009,2025-09-18,Cross-sell,Product offer,Savings,Branch,A,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,19.4,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000141,C00062,CMP003,2025-09-03,Retention,Service recovery,None,SMS,C,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,9/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000142,C00063,CMP003,2025-07-01,Retention,Service recovery,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000143,C00063,CMP003,2025-03-17,Cross-sell,Product offer,Savings,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000144,C00064,CMP009,2025-07-16,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000145,C00064,CMP007,2025-08-16,Cross-sell,Product offer,Credit card,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,2,TRUE,Valid,Churned,10/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000146,C00065,CMP010,2025-12-03,Cross-sell,Product offer,Personal loan,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,11/18/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000147,C00065,CMP006,2025-01-07,Engagement,Rewards,Rewards,SMS,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.16,6,TRUE,Valid,Churned,11/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000148,C00065,CMP003,2025-08-09,Retention,Service recovery,Credit card,SMS,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.16,8,TRUE,Valid,Churned,11/18/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000149,C00066,CMP001,2025-08-09,Engagement,Financial wellness,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000150,C00066,CMP011,2025-10-18,Cross-sell,Product offer,Credit card,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000151,C00067,CMP003,2025-12-20,Engagement,Rewards,None,Branch,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,18.31,,FALSE,Valid,Churned,12/8/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,TRUE,FALSE,0,0
+CC000152,C00068,CMP004,2025-07-07,Cross-sell,Product offer,Rewards,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,8.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000153,C00068,CMP001,2025-10-04,Retention,Rewards,Rewards,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000154,C00069,CMP010,2025-05-07,Cross-sell,Product offer,Rewards,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000155,C00069,CMP005,2025-02-05,Cross-sell,Product offer,Rewards,Branch,B,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,18.53,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000156,C00069,CMP010,2025-03-17,Retention,Rewards,None,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000157,C00070,CMP012,2025-10-15,Engagement,Financial wellness,None,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,6,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000158,C00070,CMP007,2025-12-19,Engagement,Fee relief,Rewards,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000159,C00071,CMP005,2025-10-22,Retention,Service recovery,Credit card,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,11/25/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000160,C00071,CMP008,2025-09-05,Cross-sell,Product offer,Credit card,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,11/25/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000161,C00072,CMP003,2025-01-25,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/3/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000162,C00072,CMP011,2025-09-22,Retention,Fee relief,None,Branch,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,16.45,7,TRUE,Valid,Churned,10/3/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000163,C00072,CMP004,2025-05-14,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/3/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000164,C00073,CMP010,2025-10-08,Cross-sell,Product offer,Personal loan,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000165,C00073,CMP012,2025-11-17,Retention,Service recovery,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000166,C00074,CMP010,2025-03-01,Cross-sell,Product offer,Investment,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000167,C00074,CMP007,2025-10-24,Cross-sell,Product offer,Credit card,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000168,C00074,CMP001,2025-03-24,Cross-sell,Product offer,Credit card,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,8.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000169,C00075,CMP007,2025-12-12,Cross-sell,Product offer,Credit card,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,18.34,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000170,C00075,CMP010,2025-11-24,Cross-sell,Product offer,Investment,Push,B,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,0.02,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000171,C00075,CMP012,2025-05-02,Cross-sell,Product offer,Investment,Call,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,7.03,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000172,C00075,CMP002,2025-10-16,Retention,Service recovery,Rewards,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000173,C00075,CMP004,2025-01-06,Cross-sell,Product offer,Savings,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5.95,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000174,C00076,CMP010,2025-07-08,Engagement,Financial wellness,None,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000175,C00077,CMP012,2025-01-10,Retention,Service recovery,Rewards,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,12/4/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000176,C00078,CMP006,2025-11-12,Cross-sell,Product offer,Personal loan,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,9/21/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000177,C00078,CMP005,2025-07-15,Retention,Fee relief,None,Email,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.06,2,TRUE,Valid,Churned,9/21/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000178,C00078,CMP012,2025-12-15,Retention,Rewards,None,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,9/21/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000179,C00078,CMP011,2025-08-22,Retention,Rewards,None,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,9/21/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000180,C00078,CMP012,2025-07-13,Engagement,Fee relief,Savings,Email,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.05,6,TRUE,Valid,Churned,9/21/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000181,C00079,CMP004,2025-07-02,Retention,Rewards,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000182,C00079,CMP004,2025-09-10,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000183,C00080,CMP010,2025-05-15,Retention,Fee relief,Personal loan,Email,B,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000184,C00080,CMP009,2025-06-22,Cross-sell,Product offer,Rewards,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000185,C00080,CMP003,2025-05-10,Retention,Fee relief,None,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,2,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000186,C00081,CMP006,2025-12-25,Engagement,Rewards,Rewards,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+CC000187,C00082,CMP012,2025-03-09,Cross-sell,Product offer,Credit card,Call,A,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,6.6,2,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000188,C00082,CMP005,2025-07-23,Cross-sell,Product offer,Savings,Call,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7.24,3,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000189,C00082,CMP003,2025-07-25,Engagement,Fee relief,Rewards,Call,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,8.12,,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000190,C00082,CMP001,2025-07-08,Engagement,Fee relief,None,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000191,C00082,CMP005,2025-01-07,Engagement,Fee relief,Rewards,Call,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,7.93,,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000192,C00082,CMP002,2025-02-04,Engagement,Financial wellness,Rewards,Call,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,8.08,3,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000193,C00082,CMP006,2025-06-09,Cross-sell,Product offer,Credit card,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,12/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000194,C00083,CMP010,2025-10-09,Cross-sell,Product offer,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000195,C00083,CMP007,2025-03-20,Cross-sell,Product offer,Savings,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000196,C00083,CMP011,2025-05-07,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000197,C00084,CMP006,2025-07-23,Retention,Service recovery,None,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000198,C00084,CMP009,2025-11-11,Retention,Financial wellness,Rewards,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000199,C00084,CMP006,2025-03-21,Retention,Financial wellness,None,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000200,C00084,CMP006,2025-11-25,Cross-sell,Product offer,Credit card,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000201,C00084,CMP006,2025-06-07,Engagement,Financial wellness,Rewards,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000202,C00086,CMP006,2025-01-12,Retention,Service recovery,Rewards,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.2,8,TRUE,Valid,Churned,11/14/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000203,C00086,CMP010,2025-07-04,Engagement,Financial wellness,Rewards,Push,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,5,TRUE,Valid,Churned,11/14/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000204,C00087,CMP004,2025-02-25,Retention,Service recovery,Rewards,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000205,C00087,CMP012,2025-02-07,Engagement,Financial wellness,None,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,20.99,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000206,C00088,CMP008,2025-11-01,Retention,Service recovery,Rewards,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000207,C00088,CMP009,2025-04-21,Retention,Rewards,Rewards,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000208,C00089,CMP007,2025-08-20,Retention,Service recovery,None,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000209,C00089,CMP009,2025-01-01,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000210,C00089,CMP008,2025-01-04,Cross-sell,Product offer,Investment,Branch,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,17.56,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000211,C00090,CMP006,2025-03-14,Cross-sell,Product offer,Credit card,Push,C,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,1,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000212,C00091,CMP002,2025-10-21,Cross-sell,Product offer,Investment,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000213,C00092,CMP007,2025-05-23,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000214,C00092,CMP009,2025-02-08,Engagement,Rewards,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000215,C00092,CMP001,2025-09-21,Retention,Service recovery,None,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,6,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000216,C00093,CMP010,2025-03-03,Cross-sell,Product offer,Credit card,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000217,C00093,CMP003,2025-02-11,Cross-sell,Product offer,Rewards,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000218,C00093,CMP002,2025-12-06,Cross-sell,Product offer,Investment,SMS,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000219,C00093,CMP002,2025-04-05,Retention,Product offer,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000220,C00094,CMP011,2025-12-11,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000221,C00095,CMP001,2025-02-24,Retention,Service recovery,None,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000222,C00096,CMP008,2025-03-10,Retention,Service recovery,None,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000223,C00096,CMP012,2025-08-16,Cross-sell,Product offer,Credit card,Call,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,7.98,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000224,C00096,CMP004,2025-09-04,Cross-sell,Product offer,Savings,Call,A,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,7.7,4,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000225,C00097,CMP011,2025-12-02,Retention,Service recovery,Savings,Push,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,6,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000226,C00097,CMP010,2025-04-14,Retention,Service recovery,None,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000227,C00099,CMP010,2025-10-04,Cross-sell,Product offer,Investment,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000228,C00099,CMP009,2025-05-15,Engagement,Financial wellness,None,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,12/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000229,C00099,CMP010,2025-04-04,Cross-sell,Product offer,Personal loan,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,12/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000230,C00100,CMP011,2025-09-10,Retention,Fee relief,None,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/25/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000231,C00100,CMP009,2025-08-20,Cross-sell,Product offer,Rewards,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,9/25/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000232,C00100,CMP011,2025-08-13,Cross-sell,Product offer,Rewards,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/25/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000233,C00101,CMP010,2025-11-11,Cross-sell,Product offer,Credit card,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000234,C00101,CMP009,2025-02-16,Engagement,Financial wellness,None,Push,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000235,C00101,CMP001,2025-11-12,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000236,C00104,CMP007,2025-11-25,Retention,Service recovery,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Churned,10/19/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,1,0
+CC000237,C00105,CMP004,2025-11-12,Cross-sell,Product offer,Personal loan,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,10/22/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000238,C00106,CMP011,2025-08-19,Engagement,Rewards,None,Email,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.05,5,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000239,C00106,CMP002,2025-07-18,Cross-sell,Product offer,Savings,Email,C,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000240,C00106,CMP007,2025-03-22,Retention,Financial wellness,None,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000241,C00107,CMP011,2025-06-11,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000242,C00107,CMP001,2025-02-08,Cross-sell,Product offer,Credit card,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000243,C00107,CMP002,2025-10-23,Cross-sell,Product offer,Savings,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/12/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000244,C00107,CMP006,2025-03-24,Cross-sell,Product offer,Rewards,SMS,C,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000245,C00107,CMP012,2025-09-05,Cross-sell,Product offer,Credit card,Push,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,6,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000246,C00108,CMP004,2025-09-23,Retention,Rewards,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000247,C00108,CMP007,2025-06-23,Retention,Service recovery,None,Branch,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,20.33,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000248,C00108,CMP009,2025-11-21,Cross-sell,Product offer,Savings,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000249,C00109,CMP006,2025-04-24,Engagement,Rewards,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000250,C00110,CMP011,2025-10-10,Engagement,Fee relief,Rewards,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000251,C00110,CMP009,2025-06-02,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000252,C00110,CMP004,2025-09-14,Retention,Product offer,Rewards,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000253,C00111,CMP006,2025-02-05,Engagement,Rewards,None,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000254,C00111,CMP002,2025-05-07,Engagement,Rewards,Rewards,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000255,C00112,CMP009,2025-08-04,Cross-sell,Product offer,Savings,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000256,C00114,CMP006,2025-04-04,Cross-sell,Product offer,Credit card,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000257,C00114,CMP011,2025-07-15,Cross-sell,Product offer,Investment,Push,C,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,0.02,1,TRUE,Valid,Churned,12/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000258,C00114,CMP007,2025-10-04,Cross-sell,Product offer,Savings,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000259,C00114,CMP003,2025-08-17,Retention,Service recovery,None,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Churned,12/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000260,C00114,CMP010,2025-07-21,Retention,Service recovery,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/23/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000261,C00115,CMP004,2025-03-01,Retention,Product offer,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000262,C00117,CMP008,2025-05-02,Engagement,Rewards,Savings,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000263,C00118,CMP003,2025-03-08,Retention,Fee relief,None,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000264,C00118,CMP006,2025-02-05,Cross-sell,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000265,C00119,CMP003,2025-03-07,Cross-sell,Product offer,Investment,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.16,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000266,C00119,CMP001,2025-09-05,Retention,Fee relief,Credit card,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000267,C00119,CMP002,2025-08-20,Cross-sell,Product offer,Credit card,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,7.87,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000268,C00120,CMP003,2025-04-21,Cross-sell,Product offer,Savings,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000269,C00120,CMP005,2025-05-11,Retention,Rewards,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000270,C00120,CMP005,2025-10-21,Engagement,Rewards,Rewards,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000271,C00120,CMP002,2025-05-04,Engagement,Financial wellness,Rewards,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000272,C00121,CMP011,2025-01-08,Retention,Rewards,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000273,C00122,CMP004,2025-05-06,Cross-sell,Product offer,Personal loan,Call,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,7.86,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000274,C00122,CMP012,2025-05-25,Retention,Fee relief,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000275,C00122,CMP003,2025-03-21,Cross-sell,Product offer,Savings,Call,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8.06,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000276,C00124,CMP008,2025-06-15,Cross-sell,Product offer,Personal loan,Email,C,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,0.05,0,TRUE,Valid,Churned,9/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000277,C00124,CMP001,2025-01-07,Engagement,Rewards,Savings,Call,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,7.62,5,TRUE,Valid,Churned,9/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000278,C00125,CMP008,2025-11-01,Cross-sell,Product offer,Savings,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000279,C00126,CMP006,2025-01-22,Retention,Service recovery,Rewards,Email,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000280,C00126,CMP009,2025-05-09,Engagement,Rewards,None,Email,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.05,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000281,C00126,CMP010,2025-04-16,Cross-sell,Product offer,Credit card,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000282,C00127,CMP004,2025-02-01,Cross-sell,Product offer,Savings,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000283,C00127,CMP005,2025-01-17,Cross-sell,Product offer,Investment,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000284,C00129,CMP007,2025-11-10,Engagement,Rewards,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000285,C00129,CMP004,2025-02-13,Cross-sell,Product offer,Investment,Push,C,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.02,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000286,C00130,CMP003,2025-05-15,Cross-sell,Product offer,Personal loan,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000287,C00130,CMP001,2025-09-04,Engagement,Financial wellness,None,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000288,C00130,CMP011,2025-02-20,Engagement,Rewards,Rewards,Email,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,0.06,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000289,C00130,CMP012,2025-03-16,Cross-sell,Product offer,Personal loan,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000290,C00131,CMP009,2025-12-09,Retention,Fee relief,Rewards,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000291,C00131,CMP011,2025-11-16,Cross-sell,Product offer,Personal loan,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000292,C00131,CMP010,2025-01-15,Engagement,Financial wellness,Savings,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,0.02,2,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000293,C00132,CMP001,2025-06-09,Engagement,Rewards,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Churned,9/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000294,C00132,CMP003,2025-12-24,Cross-sell,Product offer,Personal loan,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,9/10/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000295,C00132,CMP012,2025-03-03,Cross-sell,Product offer,Credit card,Email,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.06,1,TRUE,Valid,Churned,9/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000296,C00133,CMP001,2025-07-17,Retention,Fee relief,Rewards,Branch,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,21.08,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000297,C00133,CMP003,2025-02-23,Retention,Financial wellness,Savings,Call,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,7.7,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000298,C00133,CMP011,2025-12-06,Cross-sell,Product offer,Investment,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000299,C00133,CMP006,2025-08-20,Engagement,Financial wellness,Rewards,Branch,B,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,22.15,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000300,C00134,CMP001,2025-01-10,Cross-sell,Product offer,Personal loan,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000301,C00134,CMP004,2025-02-10,Retention,Fee relief,None,SMS,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.19,2,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000302,C00134,CMP003,2025-03-22,Engagement,Rewards,Rewards,SMS,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000303,C00134,CMP005,2025-03-12,Cross-sell,Product offer,Personal loan,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,17.43,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000304,C00135,CMP008,2025-07-08,Retention,Service recovery,Investment,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5.89,,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000305,C00135,CMP005,2025-09-17,Cross-sell,Product offer,Savings,Call,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.95,,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000306,C00135,CMP001,2025-05-07,Retention,Rewards,None,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,7.16,,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000307,C00136,CMP002,2025-07-18,Retention,Rewards,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000308,C00136,CMP001,2025-12-02,Retention,Fee relief,None,Email,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000309,C00137,CMP004,2025-08-25,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.22,1,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000310,C00137,CMP001,2025-08-03,Cross-sell,Product offer,Rewards,SMS,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.22,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000311,C00137,CMP005,2025-11-03,Cross-sell,Product offer,Savings,Push,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000312,C00137,CMP006,2025-01-23,Engagement,Rewards,None,SMS,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000313,C00137,CMP003,2025-11-20,Retention,Fee relief,Rewards,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000314,C00137,CMP004,2025-05-04,Engagement,Financial wellness,None,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000315,C00138,CMP007,2025-12-03,Cross-sell,Product offer,Personal loan,Call,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.09,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000316,C00140,CMP001,2025-09-02,Cross-sell,Product offer,Investment,SMS,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.17,4,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000317,C00140,CMP006,2025-11-10,Cross-sell,Product offer,Investment,SMS,C,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000318,C00140,CMP006,2025-02-15,Retention,Service recovery,None,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.18,1,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000319,C00140,CMP008,2025-08-25,Engagement,Rewards,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000320,C00140,CMP003,2025-08-11,Engagement,Rewards,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,12/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000321,C00141,CMP012,2025-08-09,Engagement,Rewards,None,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,18.48,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000322,C00141,CMP001,2025-08-24,Cross-sell,Product offer,Personal loan,Branch,B,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,18.81,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000323,C00141,CMP001,2025-02-22,Engagement,Fee relief,Rewards,Branch,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,19.45,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000324,C00141,CMP002,2025-12-10,Cross-sell,Product offer,Investment,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,16.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000325,C00142,CMP012,2025-09-20,Engagement,Financial wellness,None,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000326,C00143,CMP011,2025-08-04,Engagement,Fee relief,Savings,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,16.11,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000327,C00144,CMP007,2025-04-17,Cross-sell,Product offer,Credit card,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000328,C00144,CMP001,2025-02-14,Retention,Fee relief,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000329,C00144,CMP005,2025-04-12,Cross-sell,Product offer,Credit card,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Churned,12/19/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000330,C00145,CMP003,2025-10-02,Cross-sell,Product offer,Rewards,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,8,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000331,C00145,CMP010,2025-09-23,Cross-sell,Product offer,Savings,SMS,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.21,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000332,C00145,CMP005,2025-08-21,Retention,Financial wellness,Rewards,Call,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,6.69,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000333,C00145,CMP003,2025-10-21,Engagement,Rewards,None,SMS,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000334,C00146,CMP006,2025-03-03,Retention,Service recovery,None,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000335,C00146,CMP006,2025-12-24,Retention,Fee relief,Rewards,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000336,C00147,CMP006,2025-08-17,Cross-sell,Product offer,Savings,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000337,C00147,CMP006,2025-04-04,Cross-sell,Product offer,Savings,Email,B,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.05,6,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000338,C00147,CMP012,2025-11-06,Engagement,Financial wellness,Rewards,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000339,C00147,CMP008,2025-08-18,Cross-sell,Product offer,Rewards,Email,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000340,C00148,CMP007,2025-07-10,Cross-sell,Product offer,Savings,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000341,C00148,CMP010,2025-04-06,Engagement,Rewards,Rewards,Email,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.05,7,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000342,C00148,CMP009,2025-04-16,Cross-sell,Product offer,Personal loan,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000343,C00148,CMP009,2025-02-09,Cross-sell,Product offer,Rewards,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,21.92,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000344,C00148,CMP010,2025-09-05,Cross-sell,Product offer,Credit card,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000345,C00149,CMP007,2025-10-05,Cross-sell,Product offer,Savings,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,6.12,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000346,C00149,CMP010,2025-09-02,Retention,Service recovery,Savings,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000347,C00151,CMP012,2025-10-07,Engagement,Rewards,None,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000348,C00151,CMP001,2025-05-12,Cross-sell,Product offer,Savings,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000349,C00151,CMP005,2025-02-19,Cross-sell,Product offer,Savings,Push,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000350,C00151,CMP001,2025-02-07,Cross-sell,Product offer,Rewards,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000351,C00152,CMP003,2025-03-12,Retention,Service recovery,Credit card,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000352,C00152,CMP010,2025-02-10,Engagement,Rewards,Rewards,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.05,,TRUE,Valid,Churned,12/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000353,C00153,CMP011,2025-08-12,Engagement,Rewards,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000354,C00154,CMP010,2025-06-18,Retention,Product offer,Rewards,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,11/8/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000355,C00157,CMP003,2025-03-23,Engagement,Rewards,None,SMS,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000356,C00157,CMP001,2025-10-16,Cross-sell,Product offer,Investment,SMS,A,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.17,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000357,C00157,CMP002,2025-04-16,Retention,Service recovery,None,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000358,C00157,CMP005,2025-06-24,Retention,Financial wellness,None,SMS,A,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,0.22,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,1
+CC000359,C00157,CMP002,2025-11-13,Engagement,Rewards,Savings,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000360,C00157,CMP007,2025-09-09,Cross-sell,Product offer,Rewards,SMS,B,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.2,4,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000361,C00157,CMP012,2025-03-01,Cross-sell,Product offer,Investment,SMS,C,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000362,C00159,CMP005,2025-12-07,Cross-sell,Product offer,Credit card,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000363,C00159,CMP001,2025-08-22,Cross-sell,Product offer,Credit card,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000364,C00159,CMP005,2025-04-08,Engagement,Financial wellness,Rewards,SMS,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.16,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000365,C00159,CMP005,2025-01-17,Cross-sell,Product offer,Rewards,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000366,C00160,CMP003,2025-04-10,Engagement,Financial wellness,None,Email,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.04,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000367,C00161,CMP006,2025-03-03,Engagement,Financial wellness,Rewards,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000368,C00161,CMP003,2025-06-23,Cross-sell,Product offer,Personal loan,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000369,C00162,CMP003,2025-10-04,Cross-sell,Product offer,Personal loan,Push,B,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,0,FALSE,Valid,Churned,10/23/2025,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,1,1
+CC000370,C00163,CMP009,2025-03-20,Cross-sell,Product offer,Savings,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000371,C00163,CMP006,2025-09-02,Cross-sell,Product offer,Rewards,Email,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.04,,TRUE,Mismatch,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,TRUE,0,0
+CC000372,C00163,CMP004,2025-11-20,Engagement,Financial wellness,Rewards,Email,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.06,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000373,C00164,CMP008,2025-06-15,Engagement,Rewards,None,Call,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,6.68,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000374,C00164,CMP001,2025-01-19,Cross-sell,Product offer,Savings,Branch,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,20.5,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000375,C00164,CMP008,2025-02-03,Retention,Service recovery,Rewards,Call,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,7.94,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000376,C00165,CMP003,2025-06-01,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.15,,TRUE,Valid,Churned,10/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000377,C00165,CMP005,2025-03-22,Cross-sell,Product offer,Investment,Email,B,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,10/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000378,C00165,CMP008,2025-01-20,Cross-sell,Product offer,Rewards,Call,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.32,,TRUE,Valid,Churned,10/2/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000379,C00166,CMP002,2025-08-10,Engagement,Rewards,Rewards,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000380,C00166,CMP006,2025-03-02,Retention,Service recovery,Rewards,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000381,C00166,CMP005,2025-01-14,Engagement,Fee relief,Savings,Call,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7.84,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000382,C00169,CMP010,2025-10-10,Engagement,Rewards,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000383,C00169,CMP001,2025-08-04,Cross-sell,Product offer,Savings,Email,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.05,3,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000384,C00169,CMP004,2025-01-13,Cross-sell,Product offer,Credit card,Email,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000385,C00170,CMP008,2025-01-10,Cross-sell,Product offer,Rewards,Call,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,6.11,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000386,C00172,CMP009,2025-03-24,Retention,Fee relief,Rewards,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000387,C00172,CMP009,2025-08-02,Engagement,Financial wellness,Rewards,SMS,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,10/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000388,C00172,CMP012,2025-04-17,Retention,Service recovery,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000389,C00172,CMP001,2025-10-01,Cross-sell,Product offer,Personal loan,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,10/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000390,C00172,CMP005,2025-08-02,Engagement,Financial wellness,Rewards,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Churned,10/9/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000391,C00173,CMP005,2025-09-16,Engagement,Rewards,Savings,Email,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000392,C00173,CMP004,2025-03-23,Retention,Rewards,Rewards,Email,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000393,C00173,CMP008,2025-11-03,Engagement,Rewards,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000394,C00173,CMP007,2025-11-19,Retention,Service recovery,None,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000395,C00174,CMP009,2025-08-13,Retention,Service recovery,None,SMS,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000396,C00174,CMP001,2025-12-08,Retention,Financial wellness,None,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,8.03,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000397,C00175,CMP002,2025-06-25,Retention,Service recovery,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000398,C00175,CMP007,2025-01-17,Engagement,Rewards,None,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000399,C00175,CMP007,2025-07-12,Retention,Rewards,Rewards,Push,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,2,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000400,C00175,CMP002,2025-06-14,Cross-sell,Product offer,Savings,Email,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000401,C00176,CMP009,2025-07-09,Retention,Fee relief,Credit card,SMS,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000402,C00177,CMP005,2025-12-23,Cross-sell,Product offer,Personal loan,Email,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,9/5/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000403,C00177,CMP007,2025-04-06,Retention,Fee relief,Rewards,Email,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,9/5/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000404,C00178,CMP007,2025-09-05,Engagement,Rewards,Rewards,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000405,C00178,CMP011,2025-01-14,Engagement,Rewards,None,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,8,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000406,C00178,CMP009,2025-09-25,Engagement,Financial wellness,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/11/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000407,C00179,CMP005,2025-11-05,Cross-sell,Product offer,Credit card,Push,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000408,C00179,CMP006,2025-11-24,Cross-sell,Product offer,Investment,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000409,C00181,CMP011,2025-03-01,Cross-sell,Product offer,Rewards,Branch,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,18.65,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000410,C00182,CMP011,2025-08-13,Engagement,Rewards,Rewards,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000411,C00182,CMP009,2025-04-10,Engagement,Financial wellness,Savings,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000412,C00182,CMP002,2025-01-22,Retention,Fee relief,Personal loan,Email,C,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,0.05,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,1
+CC000413,C00182,CMP011,2025-01-15,Retention,Service recovery,Rewards,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,19.26,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000414,C00182,CMP005,2025-02-02,Engagement,Rewards,None,Push,B,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.02,,TRUE,Valid,Churned,10/6/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000415,C00183,CMP006,2025-02-11,Cross-sell,Product offer,Personal loan,Email,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.06,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000416,C00184,CMP001,2025-05-11,Retention,Rewards,None,Call,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,8,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000417,C00184,CMP010,2025-03-15,Cross-sell,Product offer,Personal loan,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000418,C00185,CMP003,2025-10-13,Cross-sell,Product offer,Investment,Call,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,6.14,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000419,C00185,CMP007,2025-04-11,Cross-sell,Product offer,Credit card,Call,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,5.7,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000420,C00186,CMP007,2025-06-02,Retention,Service recovery,None,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000421,C00186,CMP012,2025-10-16,Retention,Fee relief,Savings,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000422,C00187,CMP004,2025-06-25,Engagement,Rewards,None,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Churned,9/12/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000423,C00187,CMP010,2025-09-21,Engagement,Financial wellness,Rewards,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,9/12/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000424,C00188,CMP010,2025-02-14,Retention,Financial wellness,Personal loan,SMS,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000425,C00188,CMP012,2025-03-03,Engagement,Rewards,None,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.21,,TRUE,Mismatch,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,TRUE,0,0
+CC000426,C00188,CMP009,2025-08-04,Cross-sell,Product offer,Personal loan,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.18,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000427,C00188,CMP012,2025-08-02,Retention,Fee relief,None,SMS,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.22,8,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000428,C00188,CMP010,2025-01-11,Cross-sell,Product offer,Personal loan,SMS,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000429,C00188,CMP005,2025-03-01,Cross-sell,Product offer,Investment,SMS,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.19,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000430,C00189,CMP009,2025-03-08,Retention,Financial wellness,Rewards,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+CC000431,C00190,CMP008,2025-10-24,Engagement,Rewards,None,Email,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Churned,11/17/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000432,C00190,CMP007,2025-04-16,Cross-sell,Product offer,Credit card,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Churned,11/17/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000433,C00191,CMP007,2025-08-07,Cross-sell,Product offer,Rewards,Push,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000434,C00191,CMP009,2025-02-17,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000435,C00191,CMP008,2025-08-14,Engagement,Rewards,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000436,C00192,CMP007,2025-04-16,Engagement,Rewards,Rewards,Email,C,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.05,0,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000437,C00192,CMP010,2025-06-14,Engagement,Financial wellness,None,Branch,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,21.83,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000438,C00192,CMP007,2025-03-02,Cross-sell,Product offer,Investment,Email,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.06,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000439,C00192,CMP010,2025-08-02,Cross-sell,Product offer,Savings,Email,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.05,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000440,C00193,CMP001,2025-02-07,Cross-sell,Product offer,Credit card,Push,C,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,0.02,8,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000441,C00193,CMP012,2025-01-23,Cross-sell,Product offer,Credit card,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000442,C00193,CMP010,2025-12-03,Engagement,Fee relief,None,Push,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000443,C00193,CMP008,2025-12-08,Engagement,Fee relief,None,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,12/7/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000444,C00194,CMP009,2025-10-12,Engagement,Rewards,Rewards,SMS,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.22,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000445,C00194,CMP006,2025-03-09,Cross-sell,Product offer,Personal loan,SMS,C,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.17,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000446,C00194,CMP011,2025-01-20,Cross-sell,Product offer,Savings,Branch,C,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,21.88,5,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,1
+CC000447,C00194,CMP011,2025-11-13,Retention,Product offer,Rewards,Branch,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,21.93,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000448,C00194,CMP009,2025-12-16,Engagement,Fee relief,None,SMS,A,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000449,C00194,CMP005,2025-05-18,Cross-sell,Product offer,Personal loan,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000450,C00194,CMP001,2025-03-19,Cross-sell,Product offer,Investment,Push,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000451,C00195,CMP008,2025-12-13,Retention,Fee relief,Rewards,Call,C,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.19,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000452,C00196,CMP008,2025-08-20,Cross-sell,Product offer,Investment,Push,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000453,C00197,CMP008,2025-05-04,Retention,Financial wellness,None,Push,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,0.02,5,TRUE,Valid,Churned,9/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000454,C00197,CMP002,2025-05-14,Engagement,Financial wellness,Rewards,Push,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000455,C00197,CMP006,2025-11-15,Cross-sell,Product offer,Credit card,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/15/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000456,C00197,CMP002,2025-08-01,Retention,Service recovery,Rewards,Push,A,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,9/15/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000457,C00198,CMP011,2025-02-24,Engagement,Rewards,Rewards,Call,A,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,8.06,3,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000458,C00198,CMP006,2025-06-17,Engagement,Fee relief,Savings,Call,A,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.21,,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000459,C00198,CMP010,2025-04-23,Retention,Financial wellness,Rewards,Call,B,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6.33,,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000460,C00198,CMP006,2025-07-04,Cross-sell,Product offer,Savings,Push,A,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,0.02,,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000461,C00198,CMP011,2025-02-09,Retention,Financial wellness,Rewards,Call,B,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,7.81,0,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,1,0
+CC000462,C00198,CMP012,2025-06-24,Cross-sell,Product offer,Credit card,Branch,B,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,16.87,,TRUE,Valid,Churned,10/20/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000463,C00199,CMP008,2025-07-12,Engagement,Financial wellness,Rewards,Branch,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,20.14,,TRUE,Valid,Churned,9/10/2025,Valid or active,Valid,Valid,Valid,FALSE,FALSE,FALSE,0,0
+CC000464,C00199,CMP011,2025-11-19,Retention,Fee relief,Savings,Branch,B,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,21.87,,TRUE,Valid,Churned,9/10/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,0,0
+CC000465,C00199,CMP005,2025-09-13,Cross-sell,Product offer,Savings,Branch,A,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,21.68,8,TRUE,Valid,Churned,9/10/2025,Post-churn campaign,Valid,Valid,Valid,TRUE,FALSE,FALSE,1,0
+CC000466,C00004,CMP999,2025-11-15,Cross-sell,Product offer,Credit card,SMS,B,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,0.18,,FALSE,Valid,Active,,Valid or active,Valid,Valid,Valid,FALSE,TRUE,FALSE,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0.2103004292,,
+,,,,,,,,,,,,,,,,,,,,,0.05364806867,,,,,0.2103004292,,,

@@ -1,0 +1,201 @@
+customer_id,birth_year,gender,city,region,customer_since,account_tier,employment_status,estimated_monthly_income,number_of_products,has_current_account,has_savings_account,has_credit_card,has_personal_loan,has_investment_product,preferred_channel,marketing_consent,estimated_customer_value,customer_status,churn_date,churn_reason_recorded,product_count_issue,customer_value_segment
+C00001,1981,Female,Jeddah,Western,2022-12-01,Standard,Retired,9828.44,3,TRUE,FALSE,TRUE,FALSE,TRUE,Email,TRUE,4714.4,Active,,,,Lower Value
+C00002,1990,Female,Jeddah,Western,2023-03-01,Plus,Government,18672.06,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,6691.78,Churned,2025-11-16,Fees,,High Value
+C00003,1996,Male,Makkah,Western,2019-05-01,Standard,Retired,9600.36,3,TRUE,FALSE,TRUE,TRUE,FALSE,Push,TRUE,5759.02,Churned,2025-11-04,Unknown,,Lower Value
+C00004,1981,Male,Riyadh,Central,2023-09-01,Plus,Employed,8935.6,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,FALSE,6520.53,Active,,,,High Value
+C00005,1980,Male,Dammam,Eastern,2018-05-01,Plus,Government,9241.91,3,TRUE,FALSE,TRUE,TRUE,FALSE,SMS,TRUE,4629.44,Active,,,,Lower Value
+C00006,1994,Male,Riyadh,Central,2019-08-01,Plus,Unemployed,8750.27,4,TRUE,TRUE,TRUE,TRUE,FALSE,SMS,FALSE,4911.57,Active,,,,Lower Value
+C00007,1989,Male,Madinah,Western,2021-11-01,Standard,Employed,10429.39,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,5481.51,Churned,2025-11-09,Fees,,Lower Value
+C00008,1970,Male,Riyadh,Central,2021-05-01,Plus,Retired,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Call,TRUE,5193.61,Churned,2025-11-02,Service issue,,Lower Value
+C00009,1984,Female,Jeddah,Western,2016-06-01,Plus,Employed,25817.43,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,6466.82,Active,,,,High Value
+C00010,1987,Male,Riyadh,Central,2016-08-01,Standard,Employed,10138.02,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5417.22,Churned,2025-10-06,Moved to competitor,,Lower Value
+C00011,2003,Female,Abha,Southern,2021-01-01,Plus,Government,19814.14,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,5624.29,Active,,,,Lower Value
+C00012,2007,Male,Dammam,Eastern,2024-11-01,Standard,Retired,3798.26,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,1178.42,Churned,2025-09-23,Moved to competitor,,Lower Value
+C00013,1991,Female,Jeddah,Western,2020-11-01,Plus,Government,23303.23,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,5659.99,Active,,,,Lower Value
+C00014,2007,Female,Riyadh,Central,2024-09-01,Standard,Self-employed,3798.21,2,TRUE,FALSE,FALSE,TRUE,FALSE,Call,FALSE,2222.12,Active,,,,Lower Value
+C00015,1964,Female,Riyadh,Central,2014-02-01,Standard,Employed,16204.07,3,TRUE,FALSE,TRUE,TRUE,FALSE,Branch,TRUE,6889.99,Churned,2025-10-15,Low usage,,High Value
+C00016,1971,Male,Tabuk,Northern,2022-09-01,Standard,Self-employed,10952.01,2,FALSE,TRUE,TRUE,FALSE,FALSE,Email,TRUE,5825.67,Active,,,,Lower Value
+C00017,1987,Female,Jeddah,Western,2024-10-01,Standard,Employed,9785.02,2,TRUE,FALSE,FALSE,TRUE,FALSE,Push,TRUE,1888.74,Churned,2025-12-07,Service issue,,Lower Value
+C00018,1999,Female,Riyadh,Central,2025-10-01,Standard,Retired,10870.58,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,FALSE,5944.78,Churned,2025-10-18,Service issue,,High Value
+C00019,1989,Male,Riyadh,Central,2024-07-01,Standard,Unemployed,11272.06,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6488.8,Active,,,,High Value
+C00020,1994,Male,Madinah,Western,2024-05-01,Standard,Employed,14771.58,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,FALSE,5036.78,Active,,,,Lower Value
+C00021,1984,Female,Jeddah,Western,2020-05-01,Standard,Unemployed,1800,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,FALSE,1342.64,Active,,,,Lower Value
+C00022,1999,Female,Riyadh,Central,2023-07-01,Plus,Government,13204.65,3,TRUE,TRUE,FALSE,TRUE,FALSE,Push,TRUE,5513.01,Active,,,,Lower Value
+C00023,2007,Male,Jeddah,Western,2024-02-01,Standard,Government,15552.52,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,FALSE,6170.42,Active,,,,High Value
+C00024,1969,Male,Makkah,Western,2021-09-01,Plus,Government,8686.7,3,TRUE,TRUE,FALSE,FALSE,TRUE,Branch,TRUE,5333.72,Churned,2025-10-10,Service issue,,Lower Value
+C00025,1975,Female,Jeddah,Western,2021-01-01,Plus,Employed,8256.78,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,4955.47,Active,,,,Lower Value
+C00026,1988,Male,Riyadh,Central,2022-11-01,Plus,Employed,25452.17,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,5365.79,Active,,,,Lower Value
+C00027,1968,Male,Riyadh,Central,2023-10-01,Plus,Employed,18111.1,4,TRUE,TRUE,TRUE,FALSE,TRUE,Push,TRUE,5092.07,Active,,,,Lower Value
+C00028,1996,Female,Riyadh,Central,2021-09-01,Plus,Unemployed,23288.47,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6022.73,Churned,2025-09-24,Moved to competitor,,High Value
+C00029,1981,Female,Abha,Southern,2019-06-01,Plus,Government,23565.32,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,FALSE,4794.98,Churned,2025-09-09,Unknown,,Lower Value
+C00030,1991,Male,Riyadh,Central,2021-12-01,Plus,Employed,12157.13,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,4984.16,Active,,,,Lower Value
+C00031,1991,Female,Riyadh,Central,2023-10-01,Premium,Employed,16532.9,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,FALSE,6104.04,Churned,2025-10-07,Fees,,High Value
+C00032,1982,Female,Tabuk,Northern,2020-11-01,Premium,Employed,,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6262.7,Active,,,,High Value
+C00033,1982,Female,Riyadh,Central,2018-07-01,Premium,Retired,19182.69,5,TRUE,TRUE,TRUE,TRUE,TRUE,Push,TRUE,6855.2,Churned,2025-11-08,Service issue,,High Value
+C00034,1998,Male,Makkah,Western,2022-06-01,Standard,Government,10963.79,2,TRUE,TRUE,FALSE,FALSE,FALSE,Call,TRUE,5197.89,Active,,,,Lower Value
+C00035,1979,Female,Riyadh,Central,2008-01-01,Plus,Self-employed,22622.88,1,TRUE,FALSE,FALSE,FALSE,FALSE,Branch,TRUE,6112.25,Churned,2025-12-26,Fees,,High Value
+C00036,1979,Male,Riyadh,Central,2023-11-01,Plus,Government,13693.83,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6178.95,Churned,2025-11-03,Unknown,,High Value
+C00037,1995,Female,Dammam,Eastern,2021-11-01,Standard,Employed,1800,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,2108.66,Churned,2025-11-26,Moved to competitor,,Lower Value
+C00038,1993,Male,Riyadh,Central,2021-02-01,Standard,Student,4959.19,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,FALSE,4183.8,Active,,,,Lower Value
+C00039,1980,Male,Riyadh,Central,2023-03-01,Premium,Self-employed,30374.52,3,TRUE,TRUE,FALSE,TRUE,FALSE,Push,TRUE,6556.53,Active,,,,High Value
+C00040,1993,Male,Abha,Southern,2022-05-01,Standard,Employed,7734.18,1,FALSE,TRUE,FALSE,FALSE,FALSE,Call,FALSE,5263.44,Active,,,,Lower Value
+C00041,1994,Female,Riyadh,Central,2021-02-01,Standard,Employed,8986.03,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,5505.5,Active,,,,Lower Value
+C00042,1992,Male,Makkah,Western,2023-11-01,Standard,Unemployed,3211.22,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5089.86,Churned,2025-10-19,Fees,,Lower Value
+C00043,1985,Male,Jeddah,Western,2025-10-01,Plus,Employed,8069.09,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,4145.71,Active,,,,Lower Value
+C00044,1959,Male,Riyadh,Central,2021-11-01,Standard,Employed,9023.19,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,5534.89,Churned,2025-10-19,Unknown,,Lower Value
+C00045,1947,Female,Abha,Southern,2020-06-01,Plus,Employed,17406.71,3,TRUE,TRUE,TRUE,FALSE,FALSE,Branch,FALSE,5550.37,Active,,,,Lower Value
+C00046,1992,Female,Riyadh,Central,2023-04-01,Standard,Employed,7862.11,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,TRUE,5143.93,Churned,2025-10-10,Low usage,,Lower Value
+C00047,1964,Female,Dammam,Eastern,2018-02-01,Plus,Employed,12626.15,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,6273.2,Active,,,,High Value
+C00048,1976,Male,Madinah,Western,2021-11-01,Plus,Government,11080.27,1,FALSE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,4925.42,Active,,,,Lower Value
+C00049,1983,Male,Riyadh,Central,2023-08-01,Plus,Self-employed,15648.88,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5126.7,Active,,,,Lower Value
+C00050,1970,Male,Riyadh,Central,2018-06-01,Standard,Employed,6205.59,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,4690.36,Active,,,,Lower Value
+C00051,1989,Male,Jeddah,Western,2023-06-01,Plus,Self-employed,14164.15,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,4990.28,Active,,,,Lower Value
+C00052,1993,Female,Riyadh,Central,2022-05-01,Standard,Self-employed,8666.5,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,5232.51,Active,,,,Lower Value
+C00053,1994,Female,Riyadh,Central,2023-02-01,Plus,Employed,25459.44,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,6377.21,Churned,2025-09-12,Fees,,High Value
+C00054,2007,Male,Riyadh,Central,2024-04-01,Premium,Unemployed,22535.11,1,TRUE,FALSE,FALSE,FALSE,FALSE,Unkown,FALSE,5699.45,Active,,,,Lower Value
+C00055,1979,Female,Riyadh,Central,2021-08-01,Plus,Employed,8809.15,4,TRUE,TRUE,TRUE,FALSE,TRUE,Push,TRUE,6460.3,Active,,,,High Value
+C00056,1980,Male,Abha,Southern,2024-10-01,Standard,Government,15469.92,3,TRUE,FALSE,TRUE,TRUE,FALSE,Email,TRUE,5425.56,Churned,2025-12-18,Service issue,,Lower Value
+C00057,1973,Female,Jeddah,Western,2022-09-01,Standard,Employed,5587.8,3,TRUE,FALSE,FALSE,TRUE,TRUE,Call,TRUE,5931.27,Active,,,,High Value
+C00058,1999,Male,Jeddah,Western,2016-06-01,Standard,Employed,17166.95,0,FALSE,FALSE,TRUE,FALSE,FALSE,Push,FALSE,5886.96,Active,,,Needs verification,High Value
+C00059,1982,Male,Jeddah,Western,2016-03-01,Plus,Employed,15329.27,3,TRUE,TRUE,FALSE,TRUE,FALSE,Email,TRUE,6313.51,Active,,,,High Value
+C00060,1993,Female,Jeddah,Western,2023-10-01,Standard,Employed,3196.42,3,TRUE,FALSE,TRUE,TRUE,FALSE,Push,TRUE,5347.37,Churned,2025-12-15,Service issue,,Lower Value
+C00061,1964,Female,Madinah,Western,2022-01-01,Plus,Unemployed,15721.54,2,TRUE,FALSE,TRUE,FALSE,FALSE,Branch,TRUE,4564.17,Active,,,,Lower Value
+C00062,1985,Male,Jeddah,Western,2022-08-01,Plus,Self-employed,,4,TRUE,TRUE,TRUE,TRUE,FALSE,SMS,TRUE,5437.5,Churned,2025-09-09,Unknown,,Lower Value
+C00063,1987,Female,Jeddah,Western,2020-04-01,Plus,Employed,26994.94,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6396.11,Active,,,,High Value
+C00064,1999,Female,Dammam,Eastern,2020-10-01,Premium,Self-employed,28126.1,1,FALSE,FALSE,FALSE,TRUE,FALSE,Push,TRUE,5050.98,Churned,2025-10-19,Fees,,Lower Value
+C00065,1992,Female,Riyadh,Central,2019-03-01,Plus,Self-employed,17150.79,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,6022.38,Churned,2025-11-18,Fees,,High Value
+C00066,1994,Female,Dammam,Eastern,2023-07-01,Plus,Self-employed,16580.42,2,TRUE,FALSE,TRUE,TRUE,FALSE,Push,TRUE,5695.97,Active,,,Needs verification,Lower Value
+C00067,1967,Female,Jeddah,Western,2016-11-01,Plus,Employed,21772.79,2,TRUE,TRUE,FALSE,FALSE,FALSE,Call,FALSE,5783.37,Churned,2025-12-08,Unknown,,Lower Value
+C00068,1996,Male,Jeddah,Western,2018-12-01,Standard,Employed,9249,3,TRUE,FALSE,TRUE,TRUE,FALSE,SMS,TRUE,5524.26,Active,,,,Lower Value
+C00069,1970,Female,Riyadh,Central,2024-04-01,Standard,Employed,7170.13,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,4877.19,Active,,,,Lower Value
+C00070,2006,Female,Riyadh,Central,2023-06-01,Plus,Student,11383.36,3,TRUE,TRUE,FALSE,TRUE,FALSE,Push,TRUE,5700.11,Active,,,,Lower Value
+C00071,1994,Male,Riyadh,Central,2019-10-01,Plus,Employed,11533.06,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,5967.82,Churned,2025-11-25,Service issue,,High Value
+C00072,1990,Male,Jeddah,Western,2017-10-01,Standard,Employed,5402.85,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,5571.19,Churned,2025-10-03,Low usage,,Lower Value
+C00073,2003,Male,Jeddah,Western,2022-05-01,Plus,Employed,12901.23,2,FALSE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,5160.46,Active,,,,Lower Value
+C00074,1996,Male,Riyadh,Central,2019-07-01,Standard,Employed,1818.05,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,3808.36,Active,,,,Lower Value
+C00075,1994,Male,Jeddah,Western,2021-10-01,Plus,Government,16245.82,3,TRUE,FALSE,TRUE,TRUE,FALSE,Call,TRUE,6196.27,Active,,,,High Value
+C00076,2007,Male,Jeddah,Western,2024-11-01,Standard,Government,1800,3,TRUE,TRUE,FALSE,FALSE,TRUE,Push,TRUE,4897.99,Active,,,,Lower Value
+C00077,1993,Male,Riyadh,Central,2017-11-01,Plus,Employed,17251.15,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,5162,Churned,2025-12-04,Service issue,,Lower Value
+C00078,1990,Male,Madinah,Western,2018-10-01,Standard,Self-employed,16841.62,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,5001.8,Churned,2025-09-21,Service issue,,Lower Value
+C00079,1985,Male,Riyadh,Central,2024-11-01,Standard,Student,5311.11,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,4653.63,Active,,,,Lower Value
+C00080,1995,Female,JEDDAH,Western,2023-12-01,Standard,Employed,9359.82,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,4889.45,Active,,,,Lower Value
+C00081,1992,Male,Riyadh,Central,2018-01-01,Standard,Employed,8023.52,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,FALSE,5745.09,Active,,,,Lower Value
+C00082,1990,Male,Riyadh,Central,2020-07-01,Standard,Self-employed,3240.44,2,TRUE,TRUE,FALSE,FALSE,FALSE,Call,TRUE,1901.23,Churned,2025-12-20,Low usage,,Lower Value
+C00083,1989,Female,Riyadh,Central,2020-11-01,Plus,Student,10285.21,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,4780.86,Active,,,,Lower Value
+C00084,1983,Female,Dammam,Eastern,2021-02-01,Standard,Government,6608.35,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5606.48,Active,,,,Lower Value
+C00085,1967,Female,Jeddah,Western,2016-09-01,Premium,Retired,27234.84,3,TRUE,TRUE,FALSE,TRUE,FALSE,SMS,TRUE,5142.13,Churned,2025-10-23,Fees,,Lower Value
+C00086,2007,Male,Jeddah,Western,2024-09-01,Standard,Self-employed,6395.8,1,TRUE,FALSE,FALSE,FALSE,FALSE,SMS,TRUE,4688.71,Churned,2025-11-14,Moved to competitor,,Lower Value
+C00087,1988,Male,Riyadh,Central,2022-05-01,Plus,Self-employed,11148.12,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5293.23,Active,,,,Lower Value
+C00088,1988,Female,Riyadh,Central,2022-10-01,Plus,Unemployed,17340.84,2,TRUE,FALSE,TRUE,FALSE,FALSE,Branch,TRUE,6085.18,Churned,2025-12-07,Moved to competitor,,High Value
+C00089,1985,Female,Makkah,Western,2008-01-01,Standard,Self-employed,11313.41,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5375.88,Active,,,,Lower Value
+C00090,1988,Female,Riyadh,Central,2021-11-01,Standard,Self-employed,1800,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,5688.06,Active,,,,Lower Value
+C00091,1979,Male,Makkah,Western,2018-10-01,Standard,Self-employed,8360.28,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,4965.64,Active,,,,Lower Value
+C00092,1971,Male,Riyadh,Central,2024-03-01,Standard,Unemployed,10343.76,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,5065.55,Active,,,,Lower Value
+C00093,1984,Male,Jeddah,Western,2023-06-01,Plus,Employed,11801.28,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5115.16,Active,,,,Lower Value
+C00094,2000,Male,Riyadh,Central,2023-04-01,Standard,Self-employed,2178.49,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,4603.94,Active,,,,Lower Value
+C00095,1992,Male,Abha,Southern,2022-02-01,Premium,Government,39281.6,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,TRUE,5693.34,Active,,,,Lower Value
+C00096,1965,Male,Riyadh,Central,2024-01-01,Standard,Employed,9146.42,2,TRUE,FALSE,FALSE,TRUE,FALSE,Call,TRUE,5993.37,Active,,,,High Value
+C00097,1990,Male,Madinah,Western,2022-11-01,Standard,Self-employed,8746.09,3,TRUE,FALSE,TRUE,TRUE,FALSE,Push,TRUE,4920.97,Active,,,,Lower Value
+C00098,1969,Male,Riyadh,Central,2022-07-01,Standard,Self-employed,7611.48,1,TRUE,FALSE,FALSE,FALSE,FALSE,SMS,TRUE,4661.83,Churned,2025-09-21,Low usage,,Lower Value
+C00099,1983,Male,Jeddah,Western,2024-08-01,Standard,Self-employed,9092.82,2,TRUE,TRUE,FALSE,FALSE,FALSE,Email,TRUE,5518.61,Churned,2025-12-12,Fees,,Lower Value
+C00100,2005,Female,Jeddah,Western,2024-11-01,Standard,Self-employed,4238.48,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,4963.35,Churned,2025-09-25,Fees,,Lower Value
+C00101,1994,Female,Riyadh,Central,2018-08-01,Plus,Employed,23005.33,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,4478.96,Active,,,,Lower Value
+C00102,1965,Female,Dammam,Eastern,2022-10-01,Plus,Employed,9242.42,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,5547.56,Active,,,,Lower Value
+C00103,1977,Male,Riyadh,Central,2023-04-01,Standard,Employed,14051.62,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,6329.51,Churned,2025-10-05,Fees,,High Value
+C00104,1992,Male,Makkah,Western,2021-06-01,Standard,Self-employed,13995.96,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5609.79,Churned,2025-10-19,Moved to competitor,,Lower Value
+C00105,1977,Female,Madinah,Western,2018-10-01,Standard,Retired,1800,3,TRUE,TRUE,FALSE,TRUE,FALSE,Email,TRUE,2640.57,Churned,2025-10-22,Unknown,,Lower Value
+C00106,1997,Female,Dammam,Eastern,2023-02-01,Plus,Student,14684.38,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5759.74,Churned,2025-12-11,Fees,,Lower Value
+C00107,1983,Female,Riyadh,Central,2021-05-01,Plus,Employed,,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5576.44,Churned,2025-09-12,Service issue,,Lower Value
+C00108,1966,Female,Jeddah,Western,2020-07-01,Standard,Retired,,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,1670.64,Active,,,,Lower Value
+C00109,1981,Male,Jeddah,Western,2016-05-01,Plus,Employed,15995.63,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5309.71,Active,,,,Lower Value
+C00110,1980,Male,Madinah,Western,2015-04-01,Premium,Employed,18629.81,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,TRUE,5634.78,Active,,,,Lower Value
+C00111,1988,Male,Riyadh,Central,2017-05-01,Plus,Student,9213.62,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,1321.78,Active,,,,Lower Value
+C00112,1989,Female,Riyadh,Central,2013-02-01,Standard,Unemployed,8794.79,2,TRUE,FALSE,TRUE,FALSE,FALSE,Branch,TRUE,5159.21,Active,,,,Lower Value
+C00113,1979,Male,Jeddah,Western,2024-05-01,Standard,Self-employed,10697.82,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,6307.28,Churned,2025-11-24,Moved to competitor,,High Value
+C00114,1977,Female,Dammam,Eastern,2024-04-01,Standard,Unemployed,12051.71,5,TRUE,TRUE,TRUE,TRUE,TRUE,Push,TRUE,6784.86,Churned,2025-12-23,Moved to competitor,,High Value
+C00115,1987,Female,Riyadh,Central,2021-04-01,Standard,Retired,8585.76,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,6120.98,Churned,2025-10-15,Fees,,High Value
+C00116,1978,Female,Madinah,Western,2022-05-01,Plus,Employed,12968.33,3,TRUE,TRUE,TRUE,FALSE,FALSE,Call,FALSE,6691.55,Active,,,,High Value
+C00117,1986,Female,Jeddah,Western,2022-10-01,Standard,Self-employed,6816.11,2,FALSE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,6186.27,Active,,,,High Value
+C00118,1986,Female,Riyadh,Central,2020-01-01,Plus,Unemployed,,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5125.95,Active,,,,Lower Value
+C00119,1989,Male,Riyadh,Central,2019-04-01,Plus,Government,11275.78,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,5909.63,Active,,,,High Value
+C00120,2007,Male,Riyadh,Central,2024-02-01,Plus,Employed,13751.64,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5890.6,Active,,,,High Value
+C00121,1968,Female,Riyadh,Central,2021-04-01,Standard,Student,11432.23,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5361,Active,,,,Lower Value
+C00122,1981,Female,Riyadh,Central,2022-11-01,Standard,Employed,7706.16,3,TRUE,TRUE,FALSE,TRUE,FALSE,Call,TRUE,6316.32,Active,,,,High Value
+C00123,1984,Male,Riyadh,Central,2023-04-01,Standard,Retired,10200.39,3,TRUE,FALSE,TRUE,TRUE,FALSE,Push,TRUE,5896.03,Active,,,,High Value
+C00124,1964,Male,Jeddah,Western,2024-01-01,Standard,Government,6456.72,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,4470.87,Churned,2025-09-11,Fees,,Lower Value
+C00125,1996,Female,Riyadh,Central,2017-02-01,Standard,Government,4560.01,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5286.82,Active,,,,Lower Value
+C00126,2007,Female,Makkah,Western,2024-12-01,Premium,Employed,13404.67,3,TRUE,FALSE,TRUE,FALSE,TRUE,Email,TRUE,5442.01,Active,,,,Lower Value
+C00127,1996,Male,Riyadh,Central,2023-12-01,Standard,Unemployed,2068.83,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,4616.96,Active,,,,Lower Value
+C00128,1980,Male,Madinah,Western,2017-10-01,Standard,Retired,10145.31,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,4944.33,Active,,,,Lower Value
+C00129,1976,Female,dammam,Eastern,2020-05-01,Plus,Employed,28994.79,4,TRUE,TRUE,TRUE,TRUE,FALSE,Push,TRUE,6142.08,Active,,,,High Value
+C00130,1991,Female,Abha,Southern,2013-10-01,Plus,Student,8497.62,2,TRUE,FALSE,FALSE,TRUE,FALSE,Email,TRUE,6256.26,Active,,,,High Value
+C00131,1987,Female,Makkah,Western,2023-10-01,Standard,Student,9472.57,2,TRUE,FALSE,FALSE,TRUE,FALSE,Push,TRUE,5905.3,Churned,2025-12-15,Moved to competitor,,High Value
+C00132,1989,Female,Riyadh,Central,2022-04-01,Standard,Government,19559.9,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,4843.71,Churned,2025-09-10,Low usage,,Lower Value
+C00133,1988,Male,Madinah,Western,2023-05-01,Plus,Employed,16006.81,2,TRUE,TRUE,FALSE,FALSE,FALSE,Branch,TRUE,6233.28,Active,,,,High Value
+C00134,1980,Male,Riyadh,Central,2022-07-01,Standard,Unemployed,12472.35,3,TRUE,FALSE,TRUE,TRUE,FALSE,SMS,TRUE,5089.65,Active,,,,Lower Value
+C00135,2003,Male,Tabuk,Northern,2020-08-01,Standard,Employed,4854.69,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,TRUE,5146.45,Churned,2025-10-11,Service issue,,Lower Value
+C00136,1968,Male,Jeddah,Western,2021-07-01,Standard,Employed,7829.94,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,TRUE,5469.27,Active,,,,Lower Value
+C00137,1982,Male,Abha,Southern,2021-04-01,Plus,Government,13019.16,4,TRUE,TRUE,TRUE,FALSE,TRUE,SMS,TRUE,5603.57,Active,,,,Lower Value
+C00138,1973,Female,Riyadh,Central,2020-02-01,Standard,Employed,,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,TRUE,4090.71,Active,,,,Lower Value
+C00139,1974,Female,Makkah,Western,2022-01-01,Plus,Employed,26352.12,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,FALSE,5792.2,Active,,,,Lower Value
+C00140,2007,Male,Riyadh,Central,2024-04-01,Plus,Retired,14765.71,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,2043.65,Churned,2025-12-15,Moved to competitor,,Lower Value
+C00141,1995,Female,Riyadh,Central,2024-05-01,Standard,Employed,11392.83,2,TRUE,TRUE,FALSE,FALSE,FALSE,Branch,TRUE,5120.2,Active,,,,Lower Value
+C00142,2007,Female,Riyadh,Central,2024-12-01,Plus,Employed,8705.74,2,FALSE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,1024.68,Active,,,,Lower Value
+C00143,1993,Male,Abha,Southern,2020-11-01,Standard,Unemployed,8955.17,2,TRUE,FALSE,FALSE,TRUE,FALSE,Branch,TRUE,4585.76,Active,,,,Lower Value
+C00144,1988,Female,Jeddah,Western,2015-09-01,Standard,Self-employed,3080.55,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,5738.92,Churned,2025-12-19,Fees,,Lower Value
+C00145,1972,Female,Riyadh,Central,2023-09-01,Plus,Government,14658.85,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,5232.51,Active,,,,Lower Value
+C00146,2000,Female,DAMMAM,Eastern,2023-06-01,Plus,Self-employed,13007.97,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,4124.64,Active,,,,Lower Value
+C00147,1990,Female,Riyadh,Central,2020-11-01,Plus,Government,20236.53,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,5155.36,Churned,2025-12-11,Unknown,,Lower Value
+C00148,1985,Male,Jeddah,Western,2022-09-01,Standard,Government,2608.54,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,4981.21,Active,,,,Lower Value
+C00149,2007,Female,Riyadh,Central,2025-07-01,Premium,Employed,35317.96,3,TRUE,TRUE,FALSE,TRUE,FALSE,Push,TRUE,5574.71,Active,,,,Lower Value
+C00150,1984,Male,Jeddah,Western,2024-07-01,Plus,Student,10687.28,1,TRUE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5360.92,Active,,,,Lower Value
+C00151,1988,Male,Dammam,Eastern,2017-10-01,Standard,Employed,11190.05,2,TRUE,FALSE,FALSE,TRUE,FALSE,Push,TRUE,6051.32,Active,,,,High Value
+C00152,1973,Male,Jeddah,Western,2014-03-01,Plus,Government,11571.87,2,TRUE,TRUE,FALSE,FALSE,FALSE,Email,TRUE,5667.74,Churned,2025-12-11,Low usage,,Lower Value
+C00153,1984,Female,Jeddah,Western,2023-09-01,Plus,Retired,10553.74,4,TRUE,TRUE,TRUE,TRUE,FALSE,Branch,TRUE,5925.35,Active,,,,High Value
+C00154,1981,Male,Riyadh,Central,2022-12-01,Plus,Self-employed,9514.02,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,TRUE,5183.76,Churned,2025-11-08,Unknown,,Lower Value
+C00155,1985,Female,Jeddah,Western,2020-01-01,Standard,Self-employed,2498.22,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,FALSE,4386.11,Active,,,,Lower Value
+C00156,1969,Female,Jeddah,Western,2022-02-01,Standard,Student,2152.9,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,FALSE,5226.01,Active,,,,Lower Value
+C00157,1964,Male,Dammam,Eastern,2021-08-01,Standard,Employed,9320.75,5,TRUE,TRUE,TRUE,TRUE,TRUE,SMS,TRUE,5604.97,Active,,,,Lower Value
+C00158,1967,Male,Riyadh,Central,2019-07-01,Standard,Employed,7828.31,2,TRUE,FALSE,FALSE,FALSE,TRUE,Push,FALSE,4846.62,Churned,2025-10-22,Fees,,Lower Value
+C00159,1977,Male,Riyadh,Central,2023-10-01,Plus,Employed,15592.58,1,TRUE,FALSE,FALSE,FALSE,FALSE,SMS,TRUE,5257.99,Churned,2025-12-07,Service issue,,Lower Value
+C00160,1984,Male,Dammam,Eastern,2023-06-01,Premium,Government,,2,TRUE,TRUE,FALSE,FALSE,FALSE,Email,TRUE,5842.13,Active,,,,Lower Value
+C00161,1992,Male,Jeddah,Western,2009-11-01,Standard,Government,5800.44,4,TRUE,TRUE,TRUE,TRUE,FALSE,Email,TRUE,5374.81,Active,,,,Lower Value
+C00162,1988,Male,Dammam,Eastern,2024-03-01,Plus,Self-employed,18313.52,4,TRUE,TRUE,TRUE,TRUE,FALSE,Push,FALSE,6615.45,Churned,2025-10-23,Service issue,,High Value
+C00163,1994,Female,Jeddah,Western,2020-04-01,Standard,Student,9083.28,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5162.22,Active,,,,Lower Value
+C00164,1997,Female,Makkah,Western,2017-02-01,Standard,Self-employed,9118.61,3,TRUE,TRUE,TRUE,FALSE,FALSE,Call,TRUE,6407.24,Active,,,,High Value
+C00165,1989,Male,Jeddah,Western,2024-11-01,Standard,Employed,13709.62,2,TRUE,FALSE,TRUE,FALSE,FALSE,SMS,TRUE,4424.02,Churned,2025-10-02,Service issue,,Lower Value
+C00166,1984,Female,Dammam,Eastern,2018-04-01,Standard,Retired,14600.57,3,TRUE,TRUE,FALSE,TRUE,FALSE,Push,TRUE,6155.87,Active,,,,High Value
+C00167,1987,Male,Dammam,Eastern,2024-06-01,Premium,Self-employed,18179.8,4,TRUE,TRUE,TRUE,TRUE,FALSE,Push,TRUE,5342.91,Churned,2025-11-07,Low usage,,Lower Value
+C00168,1983,Male,Jeddah,Western,2022-06-01,Standard,Unemployed,8031.29,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,FALSE,5101.62,Active,,,,Lower Value
+C00169,1975,Male,Jeddah,Western,2023-02-01,Standard,Government,12221.34,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,5104.4,Active,,,,Lower Value
+C00170,1984,Male,Jeddah,Western,2019-07-01,Plus,Employed,13921.25,3,TRUE,TRUE,TRUE,FALSE,FALSE,Call,TRUE,5421.12,Active,,,,Lower Value
+C00171,1986,Male,Jeddah,Western,2018-09-01,Standard,Employed,8081.6,3,TRUE,TRUE,TRUE,FALSE,FALSE,Email,FALSE,4970.45,Churned,2025-12-24,Moved to competitor,,Lower Value
+C00172,1970,Female,Dammam,Eastern,2022-07-01,Plus,Employed,17875.8,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5722.69,Churned,2025-10-09,Unknown,,Lower Value
+C00173,1991,Female,Riyadh,Central,2025-02-01,Plus,Government,7409.72,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5058.73,Active,,,,Lower Value
+C00174,1955,Female,Makkah,Western,2022-11-01,Plus,Unemployed,7939.86,3,TRUE,TRUE,TRUE,FALSE,FALSE,Call,TRUE,3291.12,Active,,,,Lower Value
+C00175,1983,Female,Riyadh,Central,2022-05-01,Plus,Government,15120.12,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5019.13,Active,,,,Lower Value
+C00176,1987,Female,Jeddah,Western,2019-11-01,Premium,Employed,20846.24,3,TRUE,FALSE,TRUE,TRUE,FALSE,SMS,TRUE,5458.87,Churned,2025-09-12,Service issue,,Lower Value
+C00177,1997,Male,Jeddah,Western,2020-11-01,Standard,Employed,10459.43,2,FALSE,TRUE,TRUE,FALSE,FALSE,Email,TRUE,5428.34,Churned,2025-09-05,Fees,,Lower Value
+C00178,1985,Male,Riyadh,Central,2023-08-01,Plus,Retired,18689.45,4,TRUE,TRUE,TRUE,TRUE,FALSE,Push,TRUE,6712.99,Churned,2025-10-11,Service issue,,High Value
+C00179,1971,Male,Tabuk,Northern,2017-09-01,Standard,Government,9579.5,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5096.01,Active,,,,Lower Value
+C00180,1978,Female,Riyadh,Central,2019-04-01,Standard,Employed,7363.6,4,TRUE,TRUE,TRUE,FALSE,TRUE,Call,FALSE,6174.3,Active,,,,High Value
+C00181,1998,Female,Abha,Southern,2018-11-01,Standard,Self-employed,15270.67,2,TRUE,FALSE,FALSE,TRUE,FALSE,Push,TRUE,5759.05,Active,,,,Lower Value
+C00182,1982,Male,Jeddah,Western,2023-11-01,Standard,Employed,10941.74,2,TRUE,FALSE,FALSE,TRUE,FALSE,SMS,TRUE,6247.77,Churned,2025-10-06,Low usage,,High Value
+C00183,2002,Female,Jeddah,Western,2025-07-01,Standard,Government,8641.34,2,TRUE,TRUE,FALSE,FALSE,FALSE,Email,TRUE,5416.82,Active,,,,Lower Value
+C00184,1999,Female,Madinah,Western,2020-03-01,Plus,Unemployed,19006.89,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,5479.64,Active,,,,Lower Value
+C00185,1960,Female,Riyadh,Central,2019-09-01,Standard,Government,10444.74,1,TRUE,FALSE,FALSE,FALSE,FALSE,Call,TRUE,5256.49,Active,,,,Lower Value
+C00186,1983,Male,Dammam,Eastern,2020-01-01,Plus,Government,9803.85,3,FALSE,TRUE,TRUE,TRUE,FALSE,Push,TRUE,5511.04,Active,,,,Lower Value
+C00187,1999,Male,Makkah,Western,2024-01-01,Standard,Employed,3817.04,3,TRUE,TRUE,TRUE,FALSE,FALSE,SMS,TRUE,6089.05,Churned,2025-09-12,Low usage,,High Value
+C00188,1979,Male,Riyadh,Central,2019-07-01,Standard,Retired,6920.34,1,TRUE,FALSE,FALSE,FALSE,FALSE,SMS,TRUE,5109.38,Active,,,,Lower Value
+C00189,1961,Male,Riyadh,Central,2019-12-01,Plus,Retired,17412.28,3,TRUE,FALSE,TRUE,TRUE,FALSE,Call,FALSE,5480.68,Active,,,,Lower Value
+C00190,2002,Female,Riyadh,Central,2020-02-01,Standard,Retired,2680.82,2,TRUE,FALSE,TRUE,FALSE,FALSE,Email,TRUE,4864.38,Churned,2025-11-17,Fees,,Lower Value
+C00191,1972,Male,Jeddah,Western,2022-05-01,Plus,Self-employed,12267.59,3,TRUE,TRUE,TRUE,FALSE,FALSE,Push,TRUE,5631.36,Active,,,,Lower Value
+C00192,1972,Male,Jeddah,Western,2019-12-01,Standard,Self-employed,6566.76,1,TRUE,FALSE,FALSE,FALSE,FALSE,Email,TRUE,5680.08,Active,,,,Lower Value
+C00193,1982,Male,Abha,Southern,2014-03-01,Standard,Unemployed,14553.24,0,FALSE,FALSE,FALSE,FALSE,FALSE,Push,TRUE,5577.29,Churned,2025-12-07,Service issue,,Lower Value
+C00194,1967,Male,Jeddah,Western,2019-10-01,Standard,Student,10438.64,1,TRUE,FALSE,FALSE,FALSE,FALSE,Branch,TRUE,4424.43,Active,,,,Lower Value
+C00195,1968,Female,Dammam,Eastern,2022-06-01,Plus,Government,14992.15,3,TRUE,TRUE,TRUE,FALSE,FALSE,Call,TRUE,6361.12,Active,,,,High Value
+C00196,1960,Male,Riyadh,Central,2017-01-01,Standard,Self-employed,13163.37,2,TRUE,FALSE,TRUE,FALSE,FALSE,Push,TRUE,4484.3,Active,,,,Lower Value
+C00197,2002,Female,Riyadh,Central,2022-08-01,Standard,Government,3193.27,4,TRUE,TRUE,TRUE,TRUE,FALSE,Push,TRUE,5782.18,Churned,2025-09-15,Unknown,,Lower Value
+C00198,1996,Male,Jeddah,Western,2024-11-01,Plus,Employed,14354.36,2,TRUE,FALSE,FALSE,TRUE,FALSE,Call,TRUE,4651.35,Churned,2025-10-20,Moved to competitor,,Lower Value
+C00199,1963,Female,Makkah,Western,2024-02-01,Plus,Retired,12726.55,3,TRUE,FALSE,TRUE,TRUE,FALSE,Branch,TRUE,5509.22,Churned,2025-09-10,Moved to competitor,,Lower Value
+C00200,1973,Female,Makkah,Western,2023-11-01,Standard,Government,9424.41,2,TRUE,TRUE,FALSE,FALSE,FALSE,Push,FALSE,5514.63,Churned,2025-11-05,Moved to competitor,,Lower Value
